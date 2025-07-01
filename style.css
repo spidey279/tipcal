@@ -20,7 +20,7 @@ body::selection {
 }
 
 .container {
-  background: #488d64;
+  background: linear-gradient( 45deg,rgb(212, 36, 36),rgb(48, 48, 224));
   margin: auto;
   width: 50%;
   color: white;
